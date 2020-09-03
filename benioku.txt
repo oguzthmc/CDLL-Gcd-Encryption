@@ -1,0 +1,5 @@
+Lütfen büyük boyutlu dosyada denemek için, ProgramController.cpp kaynak kodu içerisinde bulunan 
+calistir metodundaki ifstream değişkenine verilen parametreyi "Sayilar2.txt" olarak değiştiriniz.
+
+
+Bir sorun çıkmaması adına, metin dosyaları hem proje dizinine hem de bin klasörü altına koyulmuştur.
